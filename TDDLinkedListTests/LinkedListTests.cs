@@ -63,5 +63,14 @@ namespace TDDLinkedListTests
 
             Assert.AreEqual(3, list.Get(0).Value);
         }
+
+        [TestMethod]
+        public void RemoveNodeDecreasesSize()
+        {
+            list.AddFirst(0);
+            list.AddFirst(1);
+            list.Remove(0);
+            Assert.AreEqual(1, list.Size);
+        }
     }
 }

@@ -42,5 +42,11 @@ namespace TDDLinkedList
         {
             return node.Next != null;
         }
+
+        public LinkedListNode<T> Remove(int index)
+        {
+            Size--;
+            return null;
+        }
     }
 }
