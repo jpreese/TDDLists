@@ -1,5 +1,0 @@
-C:\Users\John\Desktop\Projects\TDDLists\TDDLinkedList\bin\Debug\TDDLinkedList.dll
-C:\Users\John\Desktop\Projects\TDDLists\TDDLinkedList\bin\Debug\TDDLinkedList.pdb
-C:\Users\John\Desktop\Projects\TDDLists\TDDLinkedList\obj\Debug\TDDLinkedList.csprojResolveAssemblyReference.cache
-C:\Users\John\Desktop\Projects\TDDLists\TDDLinkedList\obj\Debug\TDDLinkedList.dll
-C:\Users\John\Desktop\Projects\TDDLists\TDDLinkedList\obj\Debug\TDDLinkedList.pdb
