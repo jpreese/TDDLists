@@ -1,1 +1,4 @@
 TDDLists/bin/Debug/TDDLists.vshost.exe.manifest
+TDDLinkedList/obj/
+TDDLists/obj/
+TDDLinkedListTests/obj/
