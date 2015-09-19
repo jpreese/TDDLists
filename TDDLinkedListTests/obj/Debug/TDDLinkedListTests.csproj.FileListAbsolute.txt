@@ -1,0 +1,7 @@
+C:\Users\John\Desktop\Projects\TDDLists\TDDLinkedListTests\bin\Debug\TDDLinkedListTests.dll
+C:\Users\John\Desktop\Projects\TDDLists\TDDLinkedListTests\bin\Debug\TDDLinkedListTests.pdb
+C:\Users\John\Desktop\Projects\TDDLists\TDDLinkedListTests\bin\Debug\TDDLinkedList.dll
+C:\Users\John\Desktop\Projects\TDDLists\TDDLinkedListTests\bin\Debug\TDDLinkedList.pdb
+C:\Users\John\Desktop\Projects\TDDLists\TDDLinkedListTests\obj\Debug\TDDLinkedListTests.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Projects\TDDLists\TDDLinkedListTests\obj\Debug\TDDLinkedListTests.dll
+C:\Users\John\Desktop\Projects\TDDLists\TDDLinkedListTests\obj\Debug\TDDLinkedListTests.pdb

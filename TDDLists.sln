@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDLists", "TDDLists\TDDLists.csproj", "{FEA4C510-88BC-44F5-A768-8DEE2F9C9EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDLinkedList", "TDDLinkedList\TDDLinkedList.csproj", "{261156E3-5B73-42DC-A48E-441B7FDB9EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDLinkedListTests", "TDDLinkedListTests\TDDLinkedListTests.csproj", "{134F2E27-25F2-4F75-948D-2D00B031BB77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA4C510-88BC-44F5-A768-8DEE2F9C9EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA4C510-88BC-44F5-A768-8DEE2F9C9EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA4C510-88BC-44F5-A768-8DEE2F9C9EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA4C510-88BC-44F5-A768-8DEE2F9C9EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{261156E3-5B73-42DC-A48E-441B7FDB9EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261156E3-5B73-42DC-A48E-441B7FDB9EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261156E3-5B73-42DC-A48E-441B7FDB9EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261156E3-5B73-42DC-A48E-441B7FDB9EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{134F2E27-25F2-4F75-948D-2D00B031BB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134F2E27-25F2-4F75-948D-2D00B031BB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134F2E27-25F2-4F75-948D-2D00B031BB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134F2E27-25F2-4F75-948D-2D00B031BB77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

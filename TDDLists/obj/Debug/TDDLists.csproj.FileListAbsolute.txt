@@ -1,0 +1,7 @@
+C:\Users\John\Desktop\Projects\TDDLists\TDDLists\obj\Debug\TDDLists.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Projects\TDDLists\TDDLists\bin\Debug\TDDLinkedList.dll
+C:\Users\John\Desktop\Projects\TDDLists\TDDLists\bin\Debug\TDDLinkedList.pdb
+C:\Users\John\Desktop\Projects\TDDLists\TDDLists\bin\Debug\TDDLists.exe
+C:\Users\John\Desktop\Projects\TDDLists\TDDLists\bin\Debug\TDDLists.pdb
+C:\Users\John\Desktop\Projects\TDDLists\TDDLists\obj\Debug\TDDLists.exe
+C:\Users\John\Desktop\Projects\TDDLists\TDDLists\obj\Debug\TDDLists.pdb
