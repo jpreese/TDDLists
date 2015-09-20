@@ -43,10 +43,27 @@ namespace TDDLinkedList
             return node.Next != null;
         }
 
-        public LinkedListNode<T> Remove(int index)
+        public LinkedListNode<T> RemoveFirst()
         {
+            var currentHead = head;
+            head = head.Next;
             Size--;
-            return null;
+
+            return currentHead;
+        }
+
+        private LinkedListNode<T> GetNodeAtIndex(int index)
+        {
+            var currentNode = head;
+            for (var x = 0; x < index; x++)
+            {
+                if (HasNextNode(currentNode))
+                {
+                    currentNode = currentNode.Next;
+                }
+            }
+
+            return currentNode;
         }
     }
 }

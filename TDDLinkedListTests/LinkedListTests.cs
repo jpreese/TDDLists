@@ -45,7 +45,7 @@ namespace TDDLinkedListTests
         }
 
         [TestMethod]
-        public void LastNodeIsCorrect()
+        public void LastNodeIsCorrectAfterAdds()
         {
             list.AddFirst(1);
             list.AddFirst(2);
@@ -55,7 +55,7 @@ namespace TDDLinkedListTests
         }
 
         [TestMethod]
-        public void FirstNodeIsCorrect()
+        public void FirstNodeIsCorrectAfterAdds()
         {
             list.AddFirst(1);
             list.AddFirst(2);
@@ -69,8 +69,18 @@ namespace TDDLinkedListTests
         {
             list.AddFirst(0);
             list.AddFirst(1);
-            list.Remove(0);
+            list.RemoveFirst();
             Assert.AreEqual(1, list.Size);
+        }
+
+        [TestMethod]
+        public void RemoveFirstMakesSecondElementFirst()
+        {
+            list.AddFirst(1);
+            list.AddFirst(2);
+            list.RemoveFirst();
+
+            Assert.AreEqual(1, list.Get(0).Value);
         }
     }
 }
